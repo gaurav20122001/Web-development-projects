@@ -49,3 +49,15 @@ body{
     background: none;
     font-weight: bold;
 }
+#navbar.x{
+    color: white;
+    cursor: pointer;
+    border: 2px solid purple;
+    border-radius: 15px;
+    margin: 12px 0px;
+    padding: 10px 20px;
+    outline: none;
+    background: none;
+    font-weight: bold;
+
+}
